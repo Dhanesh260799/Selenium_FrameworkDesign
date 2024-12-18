@@ -1,0 +1,8 @@
+danish\pageobjects\OrderPage.class
+danish\pageobjects\ProductCatalogue.class
+danish\resources\ExtentReporterNG.class
+danish\pageobjects\CheckoutPage.class
+danish\pageobjects\CartPage.class
+danish\AbstractComponents\AbstractComponent.class
+danish\pageobjects\ConfirmationPage.class
+danish\pageobjects\LandingPage.class
